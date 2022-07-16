@@ -3,7 +3,7 @@ Great Ideas in Computer Architecture
 
 *Spring 2022*
 
-- [ ] lab00
+- [x] lab00
 - [ ] lab01
 - [ ] lab02
 - [ ] lab03
