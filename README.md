@@ -5,7 +5,7 @@ Great Ideas in Computer Architecture
 
 - [x] lab00
 - [x] lab01
-- [ ] lab02
+- [x] lab02
 - [ ] lab03
 - [ ] lab04
 - [ ] lab05
